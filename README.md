@@ -1,4 +1,4 @@
-# # GDD-TP-2C-2019
+## GDD-TP-2C-2019
 
 #### Trabajo Práctico de la materia _Gestion de Datos_ en la UTN FRBA - Año 2019
 
